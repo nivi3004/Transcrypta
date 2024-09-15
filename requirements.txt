@@ -1,0 +1,6 @@
+flask
+whisper
+vaderSentiment
+scikit-learn
+openai
+transformers

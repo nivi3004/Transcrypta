@@ -1,0 +1,25 @@
+# Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment & virtual environment files
+.env
+venv/
+env/
+
+# Audio files or uploads
+uploads/
+
+# Models and large files
+models/
+*.h5
+*.tar.gz
+*.pth
+
+# System files
+.DS_Store
+Thumbs.db
+
+# API Keys or credentials
+api_keys.txt

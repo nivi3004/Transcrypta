@@ -1,0 +1,91 @@
+body {
+    font-family: 'Times New Roman', Garamond;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: rgb(167, 137, 137);
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #234366;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #f8f9fa;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: rgb(192, 161, 161);
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #527396;
+}
+
+
+/* Neon text effect */
+.neon-text {
+    font-family: 'Arial', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #f39c12, 0 0 15px #f39c12, 0 0 20px #f39c12;
+}
+
+/* Description styling */
+.description {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #dfe6e9;
+}
+
+/* Card styling */
+.card {
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+}
+
+/* Button */
+.btn {
+    background-color: #f39c12;
+    border: none;
+}
+
+.btn:hover {
+    background-color: #e67e22;
+}
+
+/* Progress bar */
+.progress-bar {
+    background-color: #27ae60;
+}
+
