@@ -62,12 +62,12 @@ Whisper Model (base version): For automatic speech recognition.
 Emotion Detection Model (j-hartmann/emotion-english-distilroberta-base): Pre-trained RoBERTa model from Hugging Face for emotion classification.
 
 **File Structure:**
-/uploads/           # Folder where uploaded audio files are stored
-/static/images/     # Folder where generated visualizations are saved (e.g., word cloud, sentiment charts)
-/templates/         # HTML templates for Flask app (upload form, results page)
-app.py              # Main Flask application
-requirements.txt    # Required dependencies for the project
-README.md           # Project documentation
+- /uploads/           # Folder where uploaded audio files are stored
+- /static/images/     # Folder where generated visualizations are saved (e.g., word cloud, sentiment charts)
+- /templates/         # HTML templates for Flask app (upload form, results page)
+    - app.py              # Main Flask application
+    - requirements.txt    # Required dependencies for the project
+- README.md           # Project documentation
 
 **API Usage:**
 1. Transcription
