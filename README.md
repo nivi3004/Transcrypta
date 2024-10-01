@@ -1,4 +1,4 @@
-**Transcrypta - Audio Transcription and Insights Generation App**
+**Transcrypta.ai- Audio Transcription and Insights Generation App**
 
 **Project Description:**
 This application processes audio files to generate text transcriptions, extract topics and keywords, perform sentiment and emotion analysis, and detect the number of speakers. Additionally, it provides metadata such as the duration of the conversation, language spoken, word count, and word frequency. The app also generates insights, word clouds, and visualizes sentiment/emotion trends.
